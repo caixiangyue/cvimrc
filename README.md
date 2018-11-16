@@ -1,2 +1,1 @@
-# cvimrc
-my vimrc
+# dotfiles
